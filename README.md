@@ -2,12 +2,12 @@
 
 ## Hardware wallet client : Lightweight Omotenashicoin client
 2020-02-15 Electrum-mtns released. 
-** supported on Ubuntu 18.04 
+* supported for Ubuntu 18.04 
 ```
 electrum-mtns-3.3.9-x86_64.AppImage
 ```
 
-* Windows 10 pro
+* supported for Windows 10 pro
 ```
 electrum-mtns-3.3.9-portable.exe
 electrum-mtns-3.3.9-setup.exe
